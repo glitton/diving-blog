@@ -1,9 +1,9 @@
 {
-  "name": "frontend-masters-intro-to-gatsby",
+  "name": "generosa-litton-scuba-diving-blog",
   "version": "1.0.0",
   "private": true,
-  "description": "Frontend Masters Intro to Gatsby",
-  "author": "Jason Lengstorf",
+  "description": "Scuba Diving Adventures",
+  "author": "Generosa Litton",
   "keywords": [
     "gatsby"
   ],
@@ -15,8 +15,10 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^3.11.1",
+    "gatsby": "^4.1.4",
+    "gatsby-plugin-react-helmet": "^5.1.0",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0"
   }
 }

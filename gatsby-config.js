@@ -5,4 +5,5 @@ module.exports = {
     description: 'Blog about scuba diving',
     image: './src/images/glitton-scuba.jpeg',
   },
+  plugins: ['gatsby-plugin-react-helmet'],
 };

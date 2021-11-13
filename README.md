@@ -1,5 +1,3 @@
-# Frontend Masters Intro to Gatsby with Jason Lengstorf
+# Generosa Litton's Scuba Diving Adventures
 
-This is the project we'll build together to introduce you to Gatsby!
-
-See the [workshop site](https://frontendmasters.learnwithjason.dev/intro-to-gatsby/) for more details.
+This is my blog site, built with Gatsby, where I will showcase my scuba diving adventures!
